@@ -47,6 +47,7 @@
      <Compile Include="Assets\Scripts\ColoredMovingObject.cs" />
      <Compile Include="Assets\Scripts\Menu.cs" />
      <Compile Include="Assets\Scripts\MovingObject.cs" />
+     <Compile Include="Assets\Scripts\PointCreater.cs" />
      <Compile Include="Assets\Scripts\Spawner.cs" />
      <Compile Include="Assets\Scripts\WayPoint.cs" />
   </ItemGroup>
